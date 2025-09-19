@@ -1,0 +1,5 @@
+GYM/
+├── images/         # Image assets
+├── index.html      # Main page
+├── script.js       # JavaScript file
+└── style.css       # Stylesheet
